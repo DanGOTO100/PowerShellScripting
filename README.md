@@ -7,6 +7,9 @@ In the collection currently I have:
 - Script to check for a specific KB on a remote machine
 - Script to install specific detected missing KB on a set of remote machines
 
+** Please note ** as per PowerShell documentation: "To create remote sessions and run remote commands, by default, the current user must be a member of the Administrators group on the remote computer or provide the credentials of an administrator".
+There are also GPO options to not use user in Administrator group, which might be more aligned to "Least Privilege" [see indications](https://4sysops.com/archives/powershell-remoting-without-administrator-rights/)
+
 More to be added.
 
 ## Sample of the CSV outout:
