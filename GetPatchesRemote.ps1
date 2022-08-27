@@ -1,5 +1,5 @@
 <#
-MVP of SCript for listing installed Patches on a remote Windows system. Writting ouput to a CSV for post.processing
+MVP of SCript for listing installed Patches on remote Windows Servers. Writting ouput to a CSV for post.processing
 #>
 
 Clear-Host
