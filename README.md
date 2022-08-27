@@ -1,4 +1,4 @@
-# PowerShellScripting Repo
+# PowerShell Scripting Repo
 Created on 26th and 28th August 2022, it is a collection of tested PowerShell Scripts to manage Windows servers.
 
 In the collection currently I have:
