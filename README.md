@@ -3,7 +3,7 @@ Created on 26th and 28th August 2022, it is a collection of tested PowerShell Sc
 
 In the collection currently I have:
 
-- Script to get patches' status from a list of remote machines and collect output in a csv file for better managining
+- Script to get patches' status from a list of remote machines in the last 3 months,  and collect output in a csv file for better managining
 - Script to check for a specific KB on a remote machine
 - Script to install specific detected missing KB on a set of remote machines
 
